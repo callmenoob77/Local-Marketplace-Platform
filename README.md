@@ -1,1 +1,1 @@
-This project was made for the course "Computer Networks" at FII.
+This project was completed as part of the Computer Networks course.
